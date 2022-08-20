@@ -1,0 +1,181 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #FBF8ECFF;
+}
+
+.bg-white{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.mb-10{
+    margin-bottom: 55px;
+}
+
+.mb-11{
+    margin-bottom: 11px;
+}
+
+
+.d-flex{
+    display: flex;
+}
+
+
+.between{
+    justify-content: space-between;
+
+}
+
+.center{
+    justify-content: center;
+}
+
+.text-c{
+    text-align: center;
+}
+
+
+.align{
+    align-items: center;
+}
+
+.w-90{
+    width: 90%;
+}
+
+.m-0{
+    margin: 0 auto 60px;
+}
+
+.w-22{
+    width: 22%;
+}
+
+.img-1{
+    background: url(./img/b5c10bd68b9f6dd7934d9a84ebc9b9cc.png);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 250px;
+    padding: 8px;
+}
+.img-2{
+    background: url(./img/3c7d59fec09bf772f11bc4d84b0d2a2a.png);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 250px;
+    padding: 8px;
+}
+.img-3{
+    background: url(./img/53087affaab802491eed306dac7b151e.png);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 250px;
+    padding: 8px;
+}
+.img-4{
+    background: url(./img/c7f4a09ca6f08b72069d9e268e8e27c9.png);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 250px;
+    padding: 8px;
+}
+.img-left{
+    width: 32px;
+    margin-left: auto;
+}
+
+.img-top{
+    width: 56px;
+    height: 32px;
+    margin-top: 160px;
+}
+
+.rubl{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.karta{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.rubl-2{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.blinchik{
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.btn{
+    padding: 7px 0;
+    border-radius: 10px;
+    width: 100%;
+    border: 1px solid #70C05B;
+    color: #70C05B;
+    background-color: #fff;
+    transition: 300ms;
+}
+
+.mb-8{
+    margin-bottom: 8px;
+}
+
+.btn:hover{
+    background-color: #70C05B;
+    color: #fff;
+}
+
+.w-29{
+    width: 30%;
+}
+
+.cover{
+    object-fit: cover;
+}
+
+.p-10{
+    padding: 10px;
+}
+
+.clock{
+    font-size: 12px;
+    font-weight: 400;
+    color: #8F8F8F;
+}
+
+.title{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.text-2{
+    font-size: 16px;
+    font-weight: 400;
+    color: #414141;
+}
+.rounded{
+    border-radius: 10px;
+}
+
+.shadow{
+    box-shadow: 3px 2px 3px
+    rgba(0, 0, 0, 0.1);
+}
+
+.r-top{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
